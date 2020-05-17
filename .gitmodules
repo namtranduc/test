@@ -1,3 +1,0 @@
-[submodule "submodule/STM32v2"]
-	path = submodule/STM32v2
-	url = https://github.com/namtranduc/STM32v2.git
